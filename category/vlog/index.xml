@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vlog | Artyom Kudryashov</title>
+    <link>https://example.com/category/vlog/</link>
+      <atom:link href="https://example.com/category/vlog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vlog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vlog</title>
+      <link>https://example.com/category/vlog/</link>
+    </image>
+    
+    <item>
+      <title>First warmy spring week</title>
+      <link>https://example.com/post/lastweek/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I liked this week very much. It was warm and sunny. On weekend we visited Tretyakov Gallery. I&amp;rsquo;ve also met my old friend from Vologda, as he arrived at Moscow to participate in debate competition. Another event happend today&amp;rsquo;s morning - I had a job interview - I won&amp;rsquo;t write about the result yet as I don&amp;rsquo;t want to jinx it. I like my friends. And hugo.&lt;/p&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;8/10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My week</title>
+      <link>https://example.com/post/previousweek/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/previousweek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;It was kinda an ordinary week. I am a student, I make friends, we hang out together. This Sunday we visited Moscow State University of Civil Engineering and watched dance competition there.&lt;/p&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;7/10&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

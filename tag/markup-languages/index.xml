@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup languages | Artyom Kudryashov</title>
+    <link>https://example.com/tag/markup-languages/</link>
+      <atom:link href="https://example.com/tag/markup-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup languages</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Markup languages</title>
+      <link>https://example.com/tag/markup-languages/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight markup language</title>
+      <link>https://example.com/post/lightweight-markup-language/</link>
+      <pubDate>Sat, 08 Apr 2023 01:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lightweight-markup-language/</guid>
+      <description>&lt;p&gt;Легковесные языки разметки.&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary&gt;Содержание&lt;/summary&gt;
+&lt;ol&gt;
+&lt;li&gt;Общая информация&lt;/li&gt;
+&lt;li&gt;Представители&lt;/li&gt;
+&lt;li&gt;Легковесные языки для записи математических выражений&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;1-общая-информация&#34;&gt;1 Общая информация&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/li&gt;
+&lt;li&gt;Особенности:
+&lt;ul&gt;
+&lt;li&gt;Минимум функций.&lt;/li&gt;
+&lt;li&gt;Небольшой набор поддерживаемых тегов.&lt;/li&gt;
+&lt;li&gt;Легки в освоении.&lt;/li&gt;
+&lt;li&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-представители&#34;&gt;2 Представители&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Org-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-легковесные-языки-для-записи-математических-выражений&#34;&gt;3 Легковесные языки для записи математических выражений&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/AsciiMath&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AsciiMath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
