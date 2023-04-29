@@ -5,12 +5,52 @@
     <link>https://example.com/category/vlog/</link>
       <atom:link href="https://example.com/category/vlog/index.xml" rel="self" type="application/rss+xml" />
     <description>Vlog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Vlog</title>
       <link>https://example.com/category/vlog/</link>
     </image>
+    
+    <item>
+      <title>Another week of april</title>
+      <link>https://example.com/post/lastweek1/</link>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This week was kinda ok. I started working in Foxford. We met Oleg Yastrebov at the Night at Uni event. We visited Moscow State Duma. We also viewed a perfomance at the Students Theatre of RUDN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img1&#34; srcset=&#34;
+               /post/lastweek1/duma_hu586da144236f77a03faaaf638a25cfbf_251880_73af01fd4ece9e3897e30e6a0baf3f49.webp 400w,
+               /post/lastweek1/duma_hu586da144236f77a03faaaf638a25cfbf_251880_ad8b02e76c158715b9b78cb96f3a4519.webp 760w,
+               /post/lastweek1/duma_hu586da144236f77a03faaaf638a25cfbf_251880_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/lastweek1/duma_hu586da144236f77a03faaaf638a25cfbf_251880_73af01fd4ece9e3897e30e6a0baf3f49.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;p&gt;8/10&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First warmy spring week</title>

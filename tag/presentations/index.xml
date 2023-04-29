@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations | Artyom Kudryashov</title>
+    <link>https://example.com/tag/presentations/</link>
+      <atom:link href="https://example.com/tag/presentations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Presentations</title>
+      <link>https://example.com/tag/presentations/</link>
+    </image>
+    
+    <item>
+      <title>How to make a cool presentation</title>
+      <link>https://example.com/post/presentation/</link>
+      <pubDate>Sat, 29 Apr 2023 01:00:00 +0000</pubDate>
+      <guid>https://example.com/post/presentation/</guid>
+      <description>&lt;p&gt;Everyone wants to make cool presentations. How can we do that?&lt;/p&gt;
+&lt;details&gt;
+  &lt;summary&gt;Content&lt;/summary&gt;
+&lt;ol&gt;
+&lt;li&gt;Creativity&lt;/li&gt;
+&lt;li&gt;Tools&lt;/li&gt;
+&lt;li&gt;Soft skills&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;1-creativiry&#34;&gt;1 Creativiry&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To make your presentation unique, you need to be talented.&lt;/li&gt;
+&lt;li&gt;What can you add:
+&lt;ul&gt;
+&lt;li&gt;Funny videos.&lt;/li&gt;
+&lt;li&gt;Graphs and statistics.&lt;/li&gt;
+&lt;li&gt;Memes.&lt;/li&gt;
+&lt;li&gt;Minimalictic design.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img1&#34; srcset=&#34;
+               /post/presentation/1_huf4b588341a5fac3ef5922d26be523128_205296_c95468945bf7009df7f53d4cdaf2de07.webp 400w,
+               /post/presentation/1_huf4b588341a5fac3ef5922d26be523128_205296_536b538280ee9d9a3e0fc10bcc3f1d98.webp 760w,
+               /post/presentation/1_huf4b588341a5fac3ef5922d26be523128_205296_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/presentation/1_huf4b588341a5fac3ef5922d26be523128_205296_c95468945bf7009df7f53d4cdaf2de07.webp&#34;
+               width=&#34;549&#34;
+               height=&#34;486&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-tools&#34;&gt;2 Tools&lt;/h2&gt;
+&lt;p&gt;There are a lot of online tools and apps to make grear colorful presentations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/Microsoft_PowerPoint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Powerpoint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://canva.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canva&lt;/a&gt; (работает только с VPN)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ru.wikipedia.org/wiki/LibreOffice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LibreOffice&lt;/a&gt; (бесплатный аналог офисного пакета Майрософт)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img2&#34; srcset=&#34;
+               /post/presentation/2_hue7d259c4796e822528522f2e23d214f4_363555_e848315fa203cd9926c386789d8df376.webp 400w,
+               /post/presentation/2_hue7d259c4796e822528522f2e23d214f4_363555_a6c30143afd505cc8d11caec228c4774.webp 760w,
+               /post/presentation/2_hue7d259c4796e822528522f2e23d214f4_363555_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/presentation/2_hue7d259c4796e822528522f2e23d214f4_363555_e848315fa203cd9926c386789d8df376.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;482&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3-soft-skills&#34;&gt;3 Soft skills&lt;/h2&gt;
+&lt;p&gt;Very often the success of your talk is made not by the presentation itself, but by ability to deliver your thoughts to the audience. Practise and speak more to get rid of fear of public speeches and find out how to behave with the listeners correctly.&lt;/p&gt;
+&lt;p&gt;Good luck!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;img3&#34; srcset=&#34;
+               /post/presentation/3_hu170dabddb9945c187701c869a96f4a13_518886_94f3cefc64848f2c9ab2d13f9d486e3d.webp 400w,
+               /post/presentation/3_hu170dabddb9945c187701c869a96f4a13_518886_9f0971760cc834b85960d456ebf7bf4c.webp 760w,
+               /post/presentation/3_hu170dabddb9945c187701c869a96f4a13_518886_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/presentation/3_hu170dabddb9945c187701c869a96f4a13_518886_94f3cefc64848f2c9ab2d13f9d486e3d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;426&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

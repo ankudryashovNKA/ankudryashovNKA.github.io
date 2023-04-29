@@ -11,7 +11,39 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2023-04-08T01:00:00+00:00</lastmod>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/presentation/</loc>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/presentations/</loc>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/study/</loc>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-04-29T01:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/lastweek1/</loc>
+    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/myweek/</loc>
+    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/vlog/</loc>
+    <lastmod>2023-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/lightweight-markup-language/</loc>
@@ -22,27 +54,7 @@
     <lastmod>2023-04-08T01:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-04-08T01:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/study/</loc>
-    <lastmod>2023-04-08T01:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-04-08T01:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/lastweek/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/myweek/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/category/vlog/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
